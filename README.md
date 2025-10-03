@@ -1,16 +1,16 @@
-> ~~.~~ whoami
+ ~~.~~ whoami
 
 Zach FB
 
-> ~~.~~ pwd
+ ~~.~~ pwd
 
 /home/zach/web-dev
 
-> ~~.~~ ls -la projects/
+ ~~.~~ ls -la projects/
 
 drwxr-xr-x   [tailtrail-app](https://github.com/hotoke-2025/tailtrail)
 
-> ~~.~~ cat skills.txt
+ ~~.~~ cat skills.txt
 
 +-----------------------------------------+
 | FRONTEND  | HTML, CSS, JavaScript,      |
@@ -23,12 +23,12 @@ drwxr-xr-x   [tailtrail-app](https://github.com/hotoke-2025/tailtrail)
 | LEARNING  | WebGL, Python, C ...        |
 +-----------------------------------------+
 
-> ~~.~~ cat bio.txt
+ ~~.~~ cat bio.txt
 
 Graduated Dev Academy Aotearoa (800hr bootcamp).
 Building TailTrail - pet reunion full-stack app.
 
-> ~~.~~  find /home/zach -name "contact" -type f
+ ~~.~~  find /home/zach -name "contact" -type f
 
 ./contact/email/saphre3@gmail.com
 ./contact/linkedin/[zachfbdev](https://www.linkedin.com/in/zachfbdev/)
