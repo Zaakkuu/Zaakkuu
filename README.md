@@ -23,7 +23,7 @@ Building TailTrail - Lost pet finding full-stack app.
 
 ### ~~.~~  find /home/zach -name "contact" -type f
 
-./contact/email/saphre3@gmail.com
+./contact/email/saphre3@gmail.com <- Email for CV
 
 ./contact/linkedin/[zachfbdev](https://www.linkedin.com/in/zachfbdev/)
 
