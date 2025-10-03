@@ -1,16 +1,29 @@
-## Hi there 👋
+> whoami
+Zach FB
 
-<!--
-**Zaakkuu/Zaakkuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> pwd
+/home/zach/web-dev
 
-Here are some ideas to get you started:
+> ls -la projects/
+drwxr-xr-x   [tailtrail-app](https://github.com/hotoke-2025/tailtrail)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> cat skills.txt
++-----------------------------------------+
+| FRONTEND  | HTML, CSS, JavaScript,      |
+|           | TypeScript, React, Tailwind |
+| BACKEND   | Node.js, Express, Knex.js,  |
+|           | SQLite, PostgreSQL          |
+| CONCEPTS  | Responsive Design, CRUD,    |
+|           | Agile, TDD                  |
++-----------------------------------------+
+| LEARNING  | WebGL, Python, C ...        |
++-----------------------------------------+
+
+> cat bio.txt
+Graduated Dev Academy Aotearoa (800hr bootcamp).
+Building TailTrail - pet reunion full-stack app.
+
+> find /home/zach -name "contact" -type f
+./contact/email/saphre3@gmail.com
+./contact/linkedin/[zachfbdev](https://www.linkedin.com/in/zachfbdev/)
+./contact/location/auckland_nz
