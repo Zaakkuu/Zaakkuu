@@ -1,43 +1,27 @@
-# ~~.~~ whoami
+### ~~.~~ whoami
 
 Zach FB
 
-# ~~.~~ pwd
+### ~~.~~ pwd
 
 /home/zach/web-dev
 
-# ~~.~~ ls -la projects/
+### ~~.~~ ls -la projects/
 
 drwxr-xr-x   [tailtrail-app](https://github.com/hotoke-2025/tailtrail)
 
-# ~~.~~ cat skills.txt
+### ~~.~~ cat skills.txt
 
-+-----------------------------------------+
+| Frontend | Backend           | Learning  |
+| ------------- |:-------------:| -----:|
+|HTML, CSS, JavaScript, TypeScript, React, Tailwind	 | Node.js, Express, Knex.js, SQLite, PostgreSQL	 | WebGL, Python, C |
 
-| FRONTEND  | HTML, CSS, JavaScript,      |
-
-|           | TypeScript, React, Tailwind |
-
-| BACKEND   | Node.js, Express, Knex.js,  |
-
-|           | SQLite, PostgreSQL          |
-
-| CONCEPTS  | Responsive Design, CRUD,    |
-
-|           | Agile, TDD                  |
-
-+-----------------------------------------+
-
-| LEARNING  | WebGL, Python, C ...        |
-
-+-----------------------------------------+
-
-# ~~.~~ cat bio.txt
+### ~~.~~ cat bio.txt
 
 Graduated Dev Academy Aotearoa (800hr bootcamp).
-Building TailTrail - pet reunion full-stack app.
+Building TailTrail - Lost pet finding full-stack app.
 
-# ~~.~~  find /home/zach -name "contact" -type f
+### ~~.~~  find /home/zach -name "contact" -type f
 
 ./contact/email/saphre3@gmail.com
 
