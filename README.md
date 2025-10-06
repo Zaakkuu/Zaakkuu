@@ -28,6 +28,10 @@ drwxr-xr-x   [todo-full-stack](https://github.com/Zaakkuu/DevAcadProjs/tree/main
 Graduated Dev Academy Aotearoa (800hr bootcamp).
 Building TailTrail - Lost pet finding full-stack app.
 
+### ~~.~~ cd ./reachOut 
+
+Im open to work and if you’d like to get in touch (for any reason), feel free to reach out to me through email, linkedIn or instagram.
+
 ### ~~.~~  find /home/zach -name "contact" -type f
 
 ./contact/email/saphre3@gmail.com <- Email for CV
