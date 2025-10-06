@@ -1,7 +1,7 @@
 ### ~~.~~ whoami
 
-Zach FB
-
+Zach.FB
+I am a passionate Full Stack Web Developer looking for a new role in the tech space. I have a history in veterinary sciences and recently graduated from Dev Academy and now I am working on learning new languages like webGL, C+ and python
 ### ~~.~~ pwd
 
 /home/zach/web-dev
@@ -9,6 +9,13 @@ Zach FB
 ### ~~.~~ ls -la projects/
 
 drwxr-xr-x   [tailtrail-app](https://github.com/hotoke-2025/tailtrail)
+
+drwxr-xr-x   [dreamfest](https://github.com/Zaakkuu/DevAcadProjs/tree/main/dreamfest)
+
+drwxr-xr-x   [jwt-auth](https://github.com/Zaakkuu/DevAcadProjs/tree/main/jwt-auth)
+
+drwxr-xr-x   [todo-full-stack](https://github.com/Zaakkuu/DevAcadProjs/tree/main/todo-full-stack)
+
 
 ### ~~.~~ cat skills.txt
 
